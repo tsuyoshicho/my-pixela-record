@@ -1,0 +1,21 @@
+== my-pixela-record
+
+Public My https://pixe.la/[Pixe.la] chart view-only repository
+
+:username: tsuyoshicho
+:graphurl: https://pixe.la/v1/users/{username}/graphs
+
+=== https://www.vim.org/[Vim]
+
+URL : {graphurl}/vim-pixela
+image:{graphurl}/vim-pixela[image]
+
+=== https://twitter.com/[Twitter]
+
+URL : {graphurl}/twitter
+image:{graphurl}/twitter[image]
+
+=== Mastodon / https://mstdn.jp/[mstdn.jp]
+
+URL : {graphurl}/mastodon-mstdnjp
+image:{graphurl}/mastodon-mstdnjp[image]
