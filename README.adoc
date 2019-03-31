@@ -2,17 +2,20 @@
 
 Public My https://pixe.la/[Pixe.la] chart view-only repository
 
+:username: tsuyoshicho
+:graphurl: https://pixe.la/v1/users/{username}/graphs
+
 === https://www.vim.org/[Vim]
 
-URL : https://pixe.la/v1/users/tsuyoshicho/graphs/vim-pixela
-image:https://pixe.la/v1/users/tsuyoshicho/graphs/vim-pixela[image]
+URL : {graphurl}/vim-pixela
+image:{graphurl}/vim-pixela[image]
 
 === https://twitter.com/[Twitter]
 
-URL : https://pixe.la/v1/users/tsuyoshicho/graphs/twitter
-image:https://pixe.la/v1/users/tsuyoshicho/graphs/twitter[image]
+URL : {graphurl}/twitter
+image:{graphurl}/twitter[image]
 
 === Mastodon / https://mstdn.jp/[mstdn.jp]
 
-URL : https://pixe.la/v1/users/tsuyoshicho/graphs/mastodon-mstdnjp
-image:https://pixe.la/v1/users/tsuyoshicho/graphs/mastodon-mstdnjp[image]
+URL : {graphurl}/mastodon-mstdnjp
+image:{graphurl}/mastodon-mstdnjp[image]
