@@ -5,6 +5,11 @@ Public My https://pixe.la/[Pixe.la] chart view-only repository
 :username: tsuyoshicho
 :graphurl: https://pixe.la/v1/users/{username}/graphs
 
+=== Usage
+
+. Fork this repository.
+. Edit README.adoc username variable.
+
 === https://www.vim.org/[Vim]
 
 URL : {graphurl}/vim-pixela
