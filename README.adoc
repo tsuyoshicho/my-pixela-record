@@ -13,8 +13,8 @@ Public My https://pixe.la/[Pixe.la] chart view-only repository
 === Special : Github
 from https://grass-graph.moshimo.works/[Grass-Graph / Imaging your GitHub Contributions Graph]
 
-URL : https://grass-graph.moshimo.works/images/tsuyoshicho.png
-image:https://grass-graph.moshimo.works/images/tsuyoshicho.png[image]
+URL : https://grass-graph.moshimo.works/images/{username}.png
+image:https://grass-graph.moshimo.works/images/{username}.png[image]
 
 === https://www.vim.org/[Vim]
 
