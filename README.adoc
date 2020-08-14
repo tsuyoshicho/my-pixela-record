@@ -11,6 +11,11 @@ Public My https://pixe.la/[Pixe.la] chart view-only repository
 . Edit README.adoc username variable.
 
 === Special : Github
+from https://github.com/anuraghazra/github-readme-stats/[anuraghazra/github-readme-stats: Dynamically generated stats for your github readmes]
+
+URL : https://github-readme-stats.vercel.app/api?username={username}&count_private=true&show_icons=true&show_icons=true&theme=tokyonight
+image:https://github-readme-stats.vercel.app/api?username={username}&count_private=true&show_icons=true&show_icons=true&theme=tokyonight[image]
+
 from https://grass-graph.moshimo.works/[Grass-Graph / Imaging your GitHub Contributions Graph]
 
 URL : https://grass-graph.moshimo.works/images/{username}.png
